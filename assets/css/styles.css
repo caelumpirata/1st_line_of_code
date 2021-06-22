@@ -478,7 +478,7 @@ img{
 
 .skills__arrow{
     margin-left: auto;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 .skills__list{
