@@ -1,2 +1,2 @@
 # My First Website
-created this using HTML, CSS, and JavaScript
+created this using HTML, CSS, and JavaScript :)
